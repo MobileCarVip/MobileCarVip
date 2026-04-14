@@ -2,7 +2,7 @@
 
 **Invest Crypto, Earn From A Real Business, Withdraw Your Profits.**
 
-This is your guide. **Join** our Telegram channel! https://t.me/mobilecarvipcommunity
+This is your guide. Join our Telegram channel! https://t.me/mobilecarvipcommunity
 
 
 ```

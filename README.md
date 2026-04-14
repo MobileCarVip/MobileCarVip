@@ -25,7 +25,6 @@ Guide/
 ### https://mobileecar.vip/reg/maximus
 
 **Register** from the link above.
-![](https://raw.githubusercontent.com/MobileCarVip/MobileCarVip/main/Guide/website.png)
 ![](../Guide/website.png)
 
 **Change** the website language from the button on the top.
@@ -37,14 +36,14 @@ Guide/
 ![](../Guide/invest.png)
 
 **Send** your crypto to that address or QR code.
-![Alt text](./assets/screenshots/QR.png)
+![](../Guide/screenshots.png)
 
 ---
 
 ## How To See Your Profits?
 
 **Click** 'Financial' and 'Statements' on the left bar. See your daily shares from the company profits.
-![Alt text](./assets/screenshots/profits.png)
+![](../Guide/profits.png)
 
 ---
 
@@ -53,10 +52,11 @@ Guide/
 **Click** 'Financial' and 'Request Withdrawal' on the left bar.
 
 **Select** the crypto you want to withdraw and request withdrawal.
+![](../Guide/Withdraw.png)
 ![Alt text](./assets/screenshots/withdraw.png)
 
 Your request will be finalized soon, and you will see your profits in your own wallet. After investing, you can withdraw only your profit and above 10$.
-![Alt text](./assets/screenshots/wallet.png)
+![](../Guide/wallet.png)
 
 ---
 

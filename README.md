@@ -26,25 +26,24 @@ Guide/
 
 **Register** from the link above.
 ![](Guide/website.png)
-![](../Guide/website.png)
 
 **Change** the website language from the button on the top.
-![](../Guide/language.png)
+![](Guide/language.png)
 
 **Click** 'Investments' section on the left.
 
 **Click** the crypto you want to invest.
-![](../Guide/invest.png)
+![](Guide/invest.png)
 
 **Send** your crypto to that address or QR code.
-![](../Guide/screenshots.png)
+![](Guide/screenshots.png)
 
 ---
 
 ## How To See Your Profits?
 
 **Click** 'Financial' and 'Statements' on the left bar. See your daily shares from the company profits.
-![](../Guide/profits.png)
+![](Guide/profits.png)
 
 ---
 
@@ -53,10 +52,10 @@ Guide/
 **Click** 'Financial' and 'Request Withdrawal' on the left bar.
 
 **Select** the crypto you want to withdraw and request withdrawal.
-![](../Guide/Withdraw.png)
+![](Guide/Withdraw.png)
 
 Your request will be finalized soon, and you will see your profits in your own wallet. After investing, you can withdraw only your profit and above 10$.
-![](../Guide/wallet.png)
+![](Guide/wallet.png)
 
 ---
 

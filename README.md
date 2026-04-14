@@ -18,6 +18,8 @@ Guide/
 
 ```
 
+![](Guide/website.png)
+
 ---
 
 ## How To Invest/Deposit?
@@ -25,7 +27,6 @@ Guide/
 ### https://mobileecar.vip/reg/maximus
 
 **Register** from the link above.
-![](Guide/website.png)
 
 **Change** the website language from the button on the top.
 ![](Guide/language.png)

@@ -2,7 +2,7 @@
 
 **Invest Crypto, Earn From A Real Business, Withdraw Your Profits.**
 
-This is your guide.
+This is your guide. **Join** our Telegram channel! https://t.me/mobilecarvipcommunity
 
 
 ```
@@ -59,6 +59,7 @@ Your request will be finalized soon, and you will see your profits in your own w
 ![](Guide/wallet.png)
 
 After investing, you can withdraw only your profit and above 10$.
+
 ---
 
 **Join** our Telegram channel! https://t.me/mobilecarvipcommunity

@@ -55,9 +55,10 @@ Guide/
 **Select** the crypto you want to withdraw and request withdrawal.
 ![](Guide/Withdraw.png)
 
-Your request will be finalized soon, and you will see your profits in your own wallet. After investing, you can withdraw only your profit and above 10$.
+Your request will be finalized soon, and you will see your profits in your own wallet.
 ![](Guide/wallet.png)
 
+After investing, you can withdraw only your profit and above 10$.
 ---
 
 **Join** our Telegram channel! https://t.me/mobilecarvipcommunity

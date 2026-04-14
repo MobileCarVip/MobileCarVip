@@ -25,15 +25,16 @@ Guide/
 ### https://mobileecar.vip/reg/maximus
 
 **Register** from the link above.
+![](https://raw.githubusercontent.com/MobileCarVip/MobileCarVip/main/Guide/website.png)
 ![](../Guide/website.png)
 
 **Change** the website language from the button on the top.
-![Alt text](./assets/screenshots/language.png)
+![](../Guide/language.png)
 
 **Click** 'Investments' section on the left.
 
 **Click** the crypto you want to invest.
-![Alt text](./assets/screenshots/invest.png)
+![](../Guide/invest.png)
 
 **Send** your crypto to that address or QR code.
 ![Alt text](./assets/screenshots/QR.png)

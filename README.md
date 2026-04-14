@@ -25,7 +25,7 @@ Guide/
 ### https://mobileecar.vip/reg/maximus
 
 **Register** from the link above.
-![Alt text](./assets/screenshots/website.png)
+./Guide/website.png
 
 **Change** the website language from the button on the top.
 ![Alt text](./assets/screenshots/language.png)

@@ -1,20 +1,20 @@
 # Mobile Car VIP
 
-**Invista em Cripto, Ganhe com um Negócio Real, Saque Seus Lucros.**
+**Invest Crypto, Earn From A Real Business, Withdraw Your Profits.**
 
-Este é o seu guia. Junte-se ao nosso canal no Telegram! https://t.me/mobilecarvipcommunity
+This is your guide. Join our Telegram channel! https://t.me/mobilecarvipcommunity
 
 
 ```
-Guia/
+Guide/
 │
-├── Como Investir/Depositar?
+├── How To Invest/Deposit?
 │
-├── Como Ver Seus Lucros?
+├── How To See Your Profits?
 │
-├── Como Sacar Seus Lucros?
+├── How To Withdraw Your Profits?
 │
-└── Canais de Suporte.
+└── Support Channels.
 
 ```
 
@@ -22,46 +22,46 @@ Guia/
 
 ---
 
-## Como Investir/Depositar?
+## How To Invest/Deposit?
 
-### [https://mobileecar.vip/reg/maximus](https://mobileecar.vip/reg/maximus)
+### https://mobileecar.vip/reg/maximus
 
-**Cadastre** se pelo link acima.
+**Register** from the link above.
 
-**Mude** o idioma do site pelo botão no topo.
+**Change** the website language from the button on the top.
 ![](Guide/language.png)
 
-**Clique** na seção 'Investimentos' no menu à esquerda.
+**Click** 'Investments' section on the left.
 
-**Clique** na cripto que você quer investir.
+**Click** the crypto you want to invest.
 ![](Guide/invest.png)
 
-**Envie** sua cripto para esse endereço ou QR code.
+**Send** your crypto to that address or QR code.
 ![](Guide/screenshots.png)
 
 ---
 
-## Como Ver Seus Lucros?
+## How To See Your Profits?
 
-**Clique** em 'Financeiro' e 'Extratos' na barra lateral esquerda. Veja suas cotas diárias dos lucros da empresa.
+**Click** 'Financial' and 'Statements' on the left bar. See your daily shares from the company profits.
 ![](Guide/profits.png)
 
 ---
 
-## Como Sacar Seus Lucros?
+## How To Withdraw Your Profits?
 
-**Clique** em 'Financeiro' e 'Solicitar Saque' na barra lateral esquerda.
+**Click** 'Financial' and 'Request Withdrawal' on the left bar.
 
-**Selecione** a cripto que você quer sacar e solicite o saque.
+**Select** the crypto you want to withdraw and request withdrawal.
 ![](Guide/Withdraw.png)
 
-Sua solicitação será processada em breve, e você verá seus lucros na sua própria carteira.
+Your request will be finalized soon, and you will see your profits in your own wallet.
 ![](Guide/wallet.png)
 
-Depois de investir, você pode sacar apenas seus lucros e acima de 10$.
+After investing, you can withdraw only your profit and above 10$.
 
 ---
 
-**Junte-se** ao nosso canal no Telegram! https://t.me/mobilecarvipcommunity
+**Join** our Telegram channel! https://t.me/mobilecarvipcommunity
 
-**Junte-se** ao nosso canal no Discord se precisar de suporte: https://discord.gg/HddPZwC5
+**Join** our Discord channel if you need support: https://discord.gg/HddPZwC5
